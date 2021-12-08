@@ -1,0 +1,6 @@
+matplotlib
+numpy
+pandas
+opencv-contrib-python
+tensorflow-cpu
+matplotlib.pyplot
